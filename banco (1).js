@@ -2,7 +2,7 @@ let nomeUsuario = prompt("Digite seu nome:");//Nome do usuario
 alert(`Olá ${nomeUsuario}, é um prazer ter você por aqui!`);
 
 let saldo = 1000; // saldo inicial fictício
-let senha = '1246'; // senha fictícia
+let senha = '3589'; // senha fictícia
 
 // função que cria opções para o cliente
 function inicio() {
